@@ -1,0 +1,10 @@
+item {
+    name: "ramps",
+    id: 1,
+    display_name: "ramps"
+}
+item {
+    name: "stairs",
+    id: 2,
+    display_name: "stairs"
+}
