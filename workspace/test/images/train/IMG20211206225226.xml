@@ -1,0 +1,26 @@
+<annotation>
+	<folder>terrains_lab</folder>
+	<filename>IMG20211206225226.jpg</filename>
+	<path>X:\Project\【典型路况识别与超前预测】workon（算法设计&amp;模型部署）\【移动场景理解&amp;方位估计】\data&amp;experiments\terrains_lab\IMG20211206225226.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stairs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1342</xmin>
+			<ymin>2107</ymin>
+			<xmax>2761</xmax>
+			<ymax>3099</ymax>
+		</bndbox>
+	</object>
+</annotation>
